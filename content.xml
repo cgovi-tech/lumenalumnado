@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605032300065EKRJD</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503230006YIOJB3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Lumen: El dibujo expandido.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Trabajo interdisciplinar: Fundamentos artísticos y Dibujo II</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Cristina Gómez Villacampa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>¡Hola a todas y todos! En esta Situación de Aprendizaje vamos a romper los límites del papel. Como estudiantes de 2º de Bachillerato de Artes, vuestro reto es explorar cómo el trazo analógico se transforma en luz y tiempo a través del videoarte. Aprenderemos a usar el dibujo no como un fin, sino como una herramienta de planificación (storyboard) y como un elemento plástico dentro de una pieza audiovisual.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777837599687</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>df94ff44-6e7f-4ba7-9f07-b59d4a7be058</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bienvenida</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Bienvenida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>df94ff44-6e7f-4ba7-9f07-b59d4a7be058</odePageId>
+      <odeBlockId>block-1777836078131-1w02wo0d4</odeBlockId>
+      <blockName>Bienvenidos y bienvenidas</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>df94ff44-6e7f-4ba7-9f07-b59d4a7be058</odePageId>
+          <odeBlockId>block-1777836078131-1w02wo0d4</odeBlockId>
+          <odeIdeviceId>idevice-1777836078130-6perdq765</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola a todas y todos! En esta Situación de Aprendizaje vamos a romper los límites del papel. Como estudiantes de 2º de Bachillerato de Artes, vuestro reto es explorar cómo el trazo analógico se transforma en luz y tiempo a través del videoarte. Aprenderemos a usar el dibujo no como un fin, sino como una herramienta de planificación (storyboard) y como un elemento plástico dentro de una pieza audiovisual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836078130-6perdq765","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola a todas y todos! En esta Situación de Aprendizaje vamos a romper los límites del papel. Como estudiantes de 2º de Bachillerato de Artes, vuestro reto es explorar cómo el trazo analógico se transforma en luz y tiempo a través del videoarte. Aprenderemos a usar el dibujo no como un fin, sino como una herramienta de planificación (storyboard) y como un elemento plástico dentro de una pieza audiovisual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>df94ff44-6e7f-4ba7-9f07-b59d4a7be058</odePageId>
+      <odeBlockId>block-1777836215392-gyafuj6fq</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>df94ff44-6e7f-4ba7-9f07-b59d4a7be058</odePageId>
+          <odeBlockId>block-1777836215392-gyafuj6fq</odeBlockId>
+          <odeIdeviceId>idevice-1777836215391-m46r90vs0</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777836215391-m46r90vs0" title=""Ever Is Over All"" href="{{context_path}}/content/resources/Ever_Is_Over_All_Still.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Ever_Is_Over_All_Still.jpg" height="128" width="128" title=""Ever Is Over All"" alt=""Ever Is Over All"" titlelink="" author="Pipilotti Rist" authorlink="https://commons.wikimedia.org/wiki/File:Ever_Is_Over_All_Still.jpg" license="CC0" licenselink="http://creativecommons.org/publicdomain/zero/1.0/deed"/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836215391-m46r90vs0","img_0":{"img":"{{context_path}}/content/resources/Ever_Is_Over_All_Still.jpg","thumbnail":"{{context_path}}/content/resources/Ever_Is_Over_All_Still.jpg","title":"\"Ever Is Over All\"","linktitle":"","author":"Pipilotti Rist","linkauthor":"https://commons.wikimedia.org/wiki/File:Ever_Is_Over_All_Still.jpg","license":"CC0"}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777836207934-irssrfg6z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿De qué hablamos?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿De qué hablamos?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777836207934-irssrfg6z</odePageId>
+      <odeBlockId>block-1777836483682-ipq95dcd9</odeBlockId>
+      <blockName>Otras manifestaciones artísticas</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777836207934-irssrfg6z</odePageId>
+          <odeBlockId>block-1777836483682-ipq95dcd9</odeBlockId>
+          <odeIdeviceId>idevice-1777836483681-pa4his567</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El videoarte no busca contar una historia de cine tradicional con planteamiento, nudo y desenlace. Busca expresar una idea o emoción a través de la imagen y el sonido. En este proyecto, vuestra orientación artística es libre: podéis optar por la abstracción, la denuncia social o la experimentación pura con el cuerpo y el dibujo.<br /><br /><iframe width="300" height="150" src="https://www.youtube.com/embed/ZawcgoiNdwM" allowfullscreen="allowfullscreen"></iframe><a href="https://www.youtube.com/watch?v=ZawcgoiNdwM" target="_blank" rel="noopener" style="color: #0a58ca; --bs-link-color-rgb: 10,88,202;">William Kentridge animation</a><br /><br /><br />El vídeo muestra cómo el dibujo al carboncillo evoluciona y se transforma mediante la grabación paso a paso, integrando el error y el borrado como parte de la estética.<br /><br />Adjunto otro enlace de uno de los padres del videoarte: Bill Viola<br /><iframe width="560" height="314" src="https://www.youtube.com/embed/DaE85jUpx_A" allowfullscreen="allowfullscreen"></iframe><br /></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777836483681-pa4his567","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El videoarte no busca contar una historia de cine tradicional con planteamiento, nudo y desenlace. Busca expresar una idea o emoción a través de la imagen y el sonido. En este proyecto, vuestra orientación artística es libre: podéis optar por la abstracción, la denuncia social o la experimentación pura con el cuerpo y el dibujo.<br /><br /><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/ZawcgoiNdwM\" allowfullscreen=\"allowfullscreen\"></iframe><a href=\"https://www.youtube.com/watch?v=ZawcgoiNdwM\" target=\"_blank\" rel=\"noopener\" style=\"color: #0a58ca; --bs-link-color-rgb: 10,88,202;\">William Kentridge animation</a><br /><br /><br />El vídeo muestra cómo el dibujo al carboncillo evoluciona y se transforma mediante la grabación paso a paso, integrando el error y el borrado como parte de la estética.<br /><br />Adjunto otro enlace de uno de los padres del videoarte: Bill Viola<br /><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/DaE85jUpx_A\" allowfullscreen=\"allowfullscreen\"></iframe><br /></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777837635242-2k7chdan9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Glosario de Términos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glosario de Términos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777837635242-2k7chdan9</odePageId>
+      <odeBlockId>block-1777837878173-gks1tyd89</odeBlockId>
+      <blockName>Diccionario</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777837635242-2k7chdan9</odePageId>
+          <odeBlockId>block-1777837878173-gks1tyd89</odeBlockId>
+          <odeIdeviceId>idevice-1777837878172-e6ihca0eq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong> Conceptos de Dibujo y Fundamentos Artísticos</strong></p>
+<ul>
+<li><strong>Dibujo Expandido:</strong> Práctica contemporánea que trasciende el soporte bidimensional tradicional, hibridando el dibujo con el espacio, el tiempo y las nuevas tecnologías.</li>
+<li><strong>Línea de Fuerza: </strong>Trazos estructurales que dirigen la mirada del espectador y organizan la composición, esenciales para definir el dinamismo en el storyboard previo a la grabación.</li>
+<li><strong>Claroscuro y Modelado Lumínico:</strong> Uso de la luz y la sombra para generar tridimensionalidad; en el videoarte, se inspira en el tenebrismo barroco para dotar de dramatismo a la performance.</li>
+<li><strong>Mancha y Textura Visual: </strong>Elementos expresivos que aportan peso visual y materialidad a la composición, permitiendo que el dibujo dialogue con la imagen digital.</li>
+<li><strong>Encaje y Proporción: </strong>Fase técnica inicial de la representación donde se establecen las relaciones espaciales, fundamental para la coherencia visual entre los distintos encuadres del vídeo.</li>
+</ul>
+<p><strong>Estética y Lenguaje Audiovisual</strong><br /><strong></strong></p>
+<ul>
+<li><strong>Videoarte de Intencionalidad Plástica:</strong> Práctica que prioriza los elementos formales (luz, color, textura) sobre la narrativa convencional, transformando la pantalla en un lienzo en movimiento.</li>
+<li><strong>Estética de la Temporalidad: </strong>Reflexión sobre la percepción del tiempo; en la obra de Bill Viola, se manifiesta mediante la dilatación extrema (slow motion) para captar la microexpresión emocional.</li>
+<li><strong>Narrativa No Lineal: </strong>Estructura que rompe la cronología clásica, organizándose a través de metáforas visuales, asociaciones simbólicas o bucles (loops).</li>
+<li><strong>Hibridación de Medios:</strong> Proceso creativo que combina disciplinas (ej. dibujo analógico sobre carbón y edición de vídeo digital) para generar lenguajes artísticos complejos.</li>
+</ul>
+<p><strong>Planificación y Técnica</strong></p>
+<ul>
+<li><strong>Storyboard de Producción:</strong> Guion gráfico técnico que planifica de forma exhaustiva los encuadres, la angulación (picado, cenital) y los movimientos de cámara antes de la ejecución.</li>
+<li><strong>Frame (Fotograma): </strong>Unidad mínima de la imagen en movimiento que, en este proyecto, se analiza como una composición pictórica individual.</li>
+<li><strong>Performance Documentada: </strong>Acción artística centrada en el cuerpo del autor, cuyo registro en vídeo transforma un acto efímero en una obra de arte permanente.<br /><br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777837878172-e6ihca0eq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong> Conceptos de Dibujo y Fundamentos Artísticos</strong></p>\n<ul>\n<li><strong>Dibujo Expandido:</strong> Práctica contemporánea que trasciende el soporte bidimensional tradicional, hibridando el dibujo con el espacio, el tiempo y las nuevas tecnologías.</li>\n<li><strong>Línea de Fuerza: </strong>Trazos estructurales que dirigen la mirada del espectador y organizan la composición, esenciales para definir el dinamismo en el storyboard previo a la grabación.</li>\n<li><strong>Claroscuro y Modelado Lumínico:</strong> Uso de la luz y la sombra para generar tridimensionalidad; en el videoarte, se inspira en el tenebrismo barroco para dotar de dramatismo a la performance.</li>\n<li><strong>Mancha y Textura Visual: </strong>Elementos expresivos que aportan peso visual y materialidad a la composición, permitiendo que el dibujo dialogue con la imagen digital.</li>\n<li><strong>Encaje y Proporción: </strong>Fase técnica inicial de la representación donde se establecen las relaciones espaciales, fundamental para la coherencia visual entre los distintos encuadres del vídeo.</li>\n</ul>\n<p><strong>Estética y Lenguaje Audiovisual</strong><br /><strong></strong></p>\n<ul>\n<li><strong>Videoarte de Intencionalidad Plástica:</strong> Práctica que prioriza los elementos formales (luz, color, textura) sobre la narrativa convencional, transformando la pantalla en un lienzo en movimiento.</li>\n<li><strong>Estética de la Temporalidad: </strong>Reflexión sobre la percepción del tiempo; en la obra de Bill Viola, se manifiesta mediante la dilatación extrema (slow motion) para captar la microexpresión emocional.</li>\n<li><strong>Narrativa No Lineal: </strong>Estructura que rompe la cronología clásica, organizándose a través de metáforas visuales, asociaciones simbólicas o bucles (loops).</li>\n<li><strong>Hibridación de Medios:</strong> Proceso creativo que combina disciplinas (ej. dibujo analógico sobre carbón y edición de vídeo digital) para generar lenguajes artísticos complejos.</li>\n</ul>\n<p><strong>Planificación y Técnica</strong></p>\n<ul>\n<li><strong>Storyboard de Producción:</strong> Guion gráfico técnico que planifica de forma exhaustiva los encuadres, la angulación (picado, cenital) y los movimientos de cámara antes de la ejecución.</li>\n<li><strong>Frame (Fotograma): </strong>Unidad mínima de la imagen en movimiento que, en este proyecto, se analiza como una composición pictórica individual.</li>\n<li><strong>Performance Documentada: </strong>Acción artística centrada en el cuerpo del autor, cuyo registro en vídeo transforma un acto efímero en una obra de arte permanente.<br /><br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777838180550-1exke7z42</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Plan de trabajo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777838180550-1exke7z42</odePageId>
+      <odeBlockId>block-1777838209113-53bhpo67o</odeBlockId>
+      <blockName>Planificación</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777838180550-1exke7z42</odePageId>
+          <odeBlockId>block-1777838209113-53bhpo67o</odeBlockId>
+          <odeIdeviceId>idevice-1777838209112-9firw7e0a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Sesión 1-2 (Análisis): </strong>Investigamos referentes en Fundamentos del Arte. Creación de vuestra Infografía Interactiva (Producto 1) con los conceptos clave.</li>
+<li><strong>Sesión 3-4 (Dibujo):</strong> Elaboración del storyboard técnico. Debéis entregarlo en el canal de TEAMS del aula para recibir feedback.</li>
+<li><strong>Sesión 5-8 (Acción y Grabación):</strong> Rodaje de vuestra pieza de Videoarte (Producto 2). Podéis usar el aula de dibujo como set o espacios comunes del centro.</li>
+<li><strong>Sesión 9-10 (Montaje): </strong>Edición final y exportación del vídeo.</li>
+</ul>
+<p><span style="font-weight: bolder;"><img src="https://proyectoidis.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-09-at-18.30.28.png" title="Nam June Paik" width="610" height="347" alt="" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838209112-9firw7e0a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Sesión 1-2 (Análisis): </strong>Investigamos referentes en Fundamentos del Arte. Creación de vuestra Infografía Interactiva (Producto 1) con los conceptos clave.</li>\n<li><strong>Sesión 3-4 (Dibujo):</strong> Elaboración del storyboard técnico. Debéis entregarlo en el canal de TEAMS del aula para recibir feedback.</li>\n<li><strong>Sesión 5-8 (Acción y Grabación):</strong> Rodaje de vuestra pieza de Videoarte (Producto 2). Podéis usar el aula de dibujo como set o espacios comunes del centro.</li>\n<li><strong>Sesión 9-10 (Montaje): </strong>Edición final y exportación del vídeo.</li>\n</ul>\n<p><span style=\"font-weight: bolder;\"><img src=\"https://proyectoidis.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-09-at-18.30.28.png\" title=\"Nam June Paik\" width=\"610\" height=\"347\" alt=\"\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839118592-tl3qzjfcl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Formato: entorno digital</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Formato: entorno digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Formato: entorno digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839118592-tl3qzjfcl</odePageId>
+      <odeBlockId>block-1777839121131-xp1977d7p</odeBlockId>
+      <blockName>¿Dónde trabajamos?</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839118592-tl3qzjfcl</odePageId>
+          <odeBlockId>block-1777839121131-xp1977d7p</odeBlockId>
+          <odeIdeviceId>idevice-1777839121130-kprmsy5hv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el desarrollo de LUMEN, utilizaremos una arquitectura digital híbrida que nos permita organizar la teoría, los bocetos y las piezas finales:<br /><br /><strong>1. Cuaderno de bitácora y Referentes (OneNote / Aulas Virtuales)</strong><br />Soporte: Utilizaremos la sección de "Bloc de notas de clase" en OneNote (dentro de TEAMS).<br />Actividad: Aquí realizaréis vuestra investigación sobre Bill Viola y otros referentes. Debéis crear una página por equipo donde insertéis vuestra Infografía Interactiva (Producto 1).<br />Ventaja: Permite que yo pueda ver vuestro progreso en tiempo real y dejaros feedback mediante tinta digital.<br /><strong><br />2. Planificación y Storyboard (TEAMS)</strong><br />Soporte: Canal de "Proyectos" en Microsoft TEAMS.<br />Actividad: Subida de los escaneos o fotografías de vuestro Storyboard de producción.<br />Formato: Archivo PDF o imagen (JPG/PNG) de alta resolución donde se aprecien las líneas de fuerza y el encaje de las escenas.<br /><br /><strong>3. Entrega de la Pieza Final (Stream / OneDrive)</strong><br />Soporte: Carpeta compartida en OneDrive o subida directa a Microsoft Stream.<br />Actividad: Entrega de la pieza de Videoarte / Performance (Producto 2).<br />Requisito: Al ser archivos pesados, no se subirán directamente al aula virtual para no colapsar el servidor; se compartirá únicamente el enlace con permisos de lectura para el resto del grupo.<br /><br /><strong>4. Comunicación y Dudas</strong><br />Soporte: Chat grupal de TEAMS.<br />Uso: Para consultas técnicas sobre exportación de vídeo o dudas sobre el lenguaje inclusivo en vuestros guiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777839121130-kprmsy5hv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el desarrollo de LUMEN, utilizaremos una arquitectura digital híbrida que nos permita organizar la teoría, los bocetos y las piezas finales:<br /><br /><strong>1. Cuaderno de bitácora y Referentes (OneNote / Aulas Virtuales)</strong><br />Soporte: Utilizaremos la sección de \"Bloc de notas de clase\" en OneNote (dentro de TEAMS).<br />Actividad: Aquí realizaréis vuestra investigación sobre Bill Viola y otros referentes. Debéis crear una página por equipo donde insertéis vuestra Infografía Interactiva (Producto 1).<br />Ventaja: Permite que yo pueda ver vuestro progreso en tiempo real y dejaros feedback mediante tinta digital.<br /><strong><br />2. Planificación y Storyboard (TEAMS)</strong><br />Soporte: Canal de \"Proyectos\" en Microsoft TEAMS.<br />Actividad: Subida de los escaneos o fotografías de vuestro Storyboard de producción.<br />Formato: Archivo PDF o imagen (JPG/PNG) de alta resolución donde se aprecien las líneas de fuerza y el encaje de las escenas.<br /><br /><strong>3. Entrega de la Pieza Final (Stream / OneDrive)</strong><br />Soporte: Carpeta compartida en OneDrive o subida directa a Microsoft Stream.<br />Actividad: Entrega de la pieza de Videoarte / Performance (Producto 2).<br />Requisito: Al ser archivos pesados, no se subirán directamente al aula virtual para no colapsar el servidor; se compartirá únicamente el enlace con permisos de lectura para el resto del grupo.<br /><br /><strong>4. Comunicación y Dudas</strong><br />Soporte: Chat grupal de TEAMS.<br />Uso: Para consultas técnicas sobre exportación de vídeo o dudas sobre el lenguaje inclusivo en vuestros guiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839303928-k2ind58bh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839303928-k2ind58bh</odePageId>
+      <odeBlockId>block-1777839359083-xf8xpu8bp</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839303928-k2ind58bh</odePageId>
+          <odeBlockId>block-1777839359083-xf8xpu8bp</odeBlockId>
+          <odeIdeviceId>idevice-1777839359083-b2zj02mjt</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Esta rúbrica detalla los criterios con los que se evaluará tanto vuestro proceso de trabajo como los productos finales (Infografía y Videoarte). Se valorará la excelencia técnica, la capacidad reflexiva y el uso correcto de las herramientas digitales.</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777839359083-b2zj02mjt%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20importada%22%2C%22categories%22%3A%5B%22Investigaci%F3n%20y%20Referentes%22%2C%22Planificaci%F3n%20T%E9cnica%22%2C%22Calidad%20Pl%E1stica%20y%20Est%E9tica%22%2C%22Competencia%20Digital%22%2C%22Inclusi%F3n%20y%20Lenguaje%22%5D%2C%22scores%22%3A%5B%2210%22%2C%228%22%2C%225%22%2C%220%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Analiza%20con%20profundidad%20a%20Bill%20Viola%20y%20otros%20referentes%20usando%20terminolog%EDa%20t%E9cnica%20precisa%20en%20un%20soporte%20digital%20interactivo.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Identifica%20los%20referentes%20principales%20y%20explica%20sus%20conceptos%20b%E1sicos%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Describe%20los%20referentes%20de%20forma%20superficial%20y%20con%20escaso%20uso%20de%20t%E9rminos%20t%E9cnicos.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20presenta%20la%20infograf%EDa%20o%20no%20identifica%20los%20referentes%20art%EDsticos%20solicitados.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20impecable%3A%20incluye%20l%EDneas%20de%20fuerza%20angulaciones%20complejas%20y%20una%20planificaci%F3n%20de%20tiempos%20profesional.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20funcional%20que%20define%20correctamente%20los%20planos%20y%20la%20secuencia%20de%20la%20performance.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Bocetos%20b%E1sicos%20con%20poca%20definici%F3n%20t%E9cnica%20de%20los%20encuadres%20o%20movimientos%20de%20c%E1mara.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20inexistente%20o%20incoherente%20con%20la%20pieza%20final%20grabada.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Integraci%F3n%20magistral%20del%20dibujo%20y%20la%20luz.%20Uso%20excelente%20del%20claroscuro%20y%20el%20slow%20motion.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22El%20v%EDdeo%20tiene%20una%20est%E9tica%20cuidada%20y%20utiliza%20la%20luz%20de%20forma%20intencionada%20para%20modelar%20vol%FAmenes.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Calidad%20visual%20aceptable%20aunque%20la%20relaci%F3n%20entre%20dibujo%20luz%20y%20tiempo%20es%20d%E9bil.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Deficiencias%20t%E9cnicas%20graves%20en%20la%20imagen%20y%20falta%20de%20intenci%F3n%20est%E9tica%20o%20art%EDstica.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Uso%20avanzado%20de%20TEAMS%20OneNote%20y%20OneDrive.%20Entrega%20organizada%20y%20respetando%20todos%20los%20formatos%20y%20protocolos.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Utiliza%20correctamente%20los%20soportes%20digitales%20indicados%20para%20la%20presentaci%F3n%20y%20entrega.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Entrega%20los%20materiales%20con%20dificultades%20t%E9cnicas%20o%20en%20plataformas%20no%20indicadas.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20utiliza%20los%20soportes%20digitales%20propuestos%20para%20el%20seguimiento%20y%20entrega%20del%20proyecto.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Utiliza%20un%20lenguaje%20inclusivo%20y%20no%20sexista%20en%20todos%20los%20textos%20y%20locuciones%20del%20proyecto.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22El%20lenguaje%20es%20correcto%20y%20mayoritariamente%20inclusivo%20en%20las%20partes%20principales.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Uso%20inconsistente%20del%20lenguaje%20inclusivo%20manteniendo%20sesgos%20de%20g%E9nero%20en%20la%20redacci%F3n.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20tiene%20en%20cuenta%20el%20lenguaje%20inclusivo%20ni%20las%20medidas%20de%20accesibilidad%20%28DUA%29.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20importada%22%2C%22categories%22%3A%5B%22Investigaci%F3n%20y%20Referentes%22%2C%22Planificaci%F3n%20T%E9cnica%22%2C%22Calidad%20Pl%E1stica%20y%20Est%E9tica%22%2C%22Competencia%20Digital%22%2C%22Inclusi%F3n%20y%20Lenguaje%22%5D%2C%22scores%22%3A%5B%2210%22%2C%228%22%2C%225%22%2C%220%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Analiza%20con%20profundidad%20a%20Bill%20Viola%20y%20otros%20referentes%20usando%20terminolog%EDa%20t%E9cnica%20precisa%20en%20un%20soporte%20digital%20interactivo.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Identifica%20los%20referentes%20principales%20y%20explica%20sus%20conceptos%20b%E1sicos%20de%20forma%20clara.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Describe%20los%20referentes%20de%20forma%20superficial%20y%20con%20escaso%20uso%20de%20t%E9rminos%20t%E9cnicos.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20presenta%20la%20infograf%EDa%20o%20no%20identifica%20los%20referentes%20art%EDsticos%20solicitados.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20impecable%3A%20incluye%20l%EDneas%20de%20fuerza%20angulaciones%20complejas%20y%20una%20planificaci%F3n%20de%20tiempos%20profesional.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20funcional%20que%20define%20correctamente%20los%20planos%20y%20la%20secuencia%20de%20la%20performance.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Bocetos%20b%E1sicos%20con%20poca%20definici%F3n%20t%E9cnica%20de%20los%20encuadres%20o%20movimientos%20de%20c%E1mara.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Storyboard%20inexistente%20o%20incoherente%20con%20la%20pieza%20final%20grabada.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Integraci%F3n%20magistral%20del%20dibujo%20y%20la%20luz.%20Uso%20excelente%20del%20claroscuro%20y%20el%20slow%20motion.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22El%20v%EDdeo%20tiene%20una%20est%E9tica%20cuidada%20y%20utiliza%20la%20luz%20de%20forma%20intencionada%20para%20modelar%20vol%FAmenes.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Calidad%20visual%20aceptable%20aunque%20la%20relaci%F3n%20entre%20dibujo%20luz%20y%20tiempo%20es%20d%E9bil.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Deficiencias%20t%E9cnicas%20graves%20en%20la%20imagen%20y%20falta%20de%20intenci%F3n%20est%E9tica%20o%20art%EDstica.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Uso%20avanzado%20de%20TEAMS%20OneNote%20y%20OneDrive.%20Entrega%20organizada%20y%20respetando%20todos%20los%20formatos%20y%20protocolos.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Utiliza%20correctamente%20los%20soportes%20digitales%20indicados%20para%20la%20presentaci%F3n%20y%20entrega.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Entrega%20los%20materiales%20con%20dificultades%20t%E9cnicas%20o%20en%20plataformas%20no%20indicadas.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20utiliza%20los%20soportes%20digitales%20propuestos%20para%20el%20seguimiento%20y%20entrega%20del%20proyecto.%22%7D%5D%2C%5B%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Utiliza%20un%20lenguaje%20inclusivo%20y%20no%20sexista%20en%20todos%20los%20textos%20y%20locuciones%20del%20proyecto.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22El%20lenguaje%20es%20correcto%20y%20mayoritariamente%20inclusivo%20en%20las%20partes%20principales.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22Uso%20inconsistente%20del%20lenguaje%20inclusivo%20manteniendo%20sesgos%20de%20g%E9nero%20en%20la%20redacci%F3n.%22%7D%2C%7B%22weight%22%3A%22%22%2C%22text%22%3A%22No%20tiene%20en%20cuenta%20el%20lenguaje%20inclusivo%20ni%20las%20medidas%20de%20accesibilidad%20%28DUA%29.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EEsta%20r%FAbrica%20detalla%20los%20criterios%20con%20los%20que%20se%20evaluar%E1%20tanto%20vuestro%20proceso%20de%20trabajo%20como%20los%20productos%20finales%20%28Infograf%EDa%20y%20Videoarte%29.%20Se%20valorar%E1%20la%20excelencia%20t%E9cnica%2C%20la%20capacidad%20reflexiva%20y%20el%20uso%20correcto%20de%20las%20herramientas%20digitales.%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EEsta%20r%FAbrica%20detalla%20los%20criterios%20con%20los%20que%20se%20evaluar%E1%20tanto%20vuestro%20proceso%20de%20trabajo%20como%20los%20productos%20finales%20%28Infograf%EDa%20y%20Videoarte%29.%20Se%20valorar%E1%20la%20excelencia%20t%E9cnica%2C%20la%20capacidad%20reflexiva%20y%20el%20uso%20correcto%20de%20las%20herramientas%20digitales.%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777840311773-oy0e52haq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡A jugar!</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡A jugar!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡A jugar!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777840311773-oy0e52haq</odePageId>
+      <odeBlockId>block-1777840377521-bwupt88me</odeBlockId>
+      <blockName>TriviExt</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777840311773-oy0e52haq</odePageId>
+          <odeBlockId>block-1777840377521-bwupt88me</odeBlockId>
+          <odeIdeviceId>idevice-1777840377519-c4g6z11g2</odeIdeviceId>
+          <odeIdeviceTypeName>trivial</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="trivial-IDevice"><div class="trivial-instructions"><p>Lanza el dado y contesta a la pregunta hasta completar todos los quesos.</p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777840377519-c4g6z11g2" data-evaluationb="false" data-evaluationid="60bbbddf-b65e-42e3-8d77-2333bd26be0a"></div><div class="trivial-DataGame js-hidden">{"asignatura":"","author":"","authorVideo":"","typeGame":"Trivial","endVideo":0,"idVideo":"","startVideo":"","instructionsExe":"<p>Lanza el dado y contesta a la pregunta hasta completar todos los quesos.</p>","instructions":"Lanza el dado y contesta a la pregunta hasta completar todos los quesos. ","showMinimize":false,"optionsRamdon":true,"answersRamdon":true,"showSolution":true,"timeShowSolution":3,"useLives":false,"numberLives":3,"itinerary":{"showClue":false,"clueGame":"","percentageClue":100,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"numeroTemas":3,"nombresTemas":["Tema 1","Tema 2","Tema 3","Tema 4","Tema 5","Tema 6"],"temas":[[{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":3,"o":["Montaje rápido tipo videoclip.","Cámara lenta extrema y atención al detalle plástico.","Uso exclusivo de dibujos en blanco y negro.",""],"p":0,"q":"¿Cuál es la principal característica del videoarte de Bill Viola que aplicaremos al proyecto?","r":"","s":"OTNC","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":3,"o":["Para sustituir al vídeo final.","Es solo un ejercicio de dibujo sin conexión con el audiovisual.","Para planificar composición, luz y tiempo antes de grabar.",""],"p":0,"q":"¿Para qué sirve el Storyboard en nuestra SdA?","r":"","s":"NDVD","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":3,"o":["Que el papel es de gran formato.","Que hibridamos el trazo con otros soportes como el vídeo o la performance.","Que usamos muchas capas de color.",""],"p":0,"q":"¿Qué significa que nuestro dibujo sea \"expandido\"?","r":"","s":"NTBC","t":"","u":"","x":0,"y":0,"z":0,"ad":""}]],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"title":"","customScore":false,"textAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgSubmit":"Enviar","msgEnterCode":"Introduce el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgGameOver":"¡Fin de la partida!","msgClue":"¡Genial! La pista es:","msgNewGame":"Pulsa aquí para empezar otra partida","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgTime":"Tiempo por pregunta","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNotNetwork":"A este juego solo se puede jugar con conexión a internet.","msgQuestion":"Pregunta","msgAnswer":"Comprobar","msgInformation":"Información","msgAuthor":"Autoría","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgYouLastScore":"La última puntuación guardada es","msgOption":"Opción","msgImage":"Imagen","msgOrders":"Ordena todas las respuestas","msgIndicateWord":"Proporciona una palabra o expresión","msgGameStarted":"El juego ya ha comenzado.","msgPlayersName":"Debes indicar un nombre para todos los jugadores seleccionados.","msgReboot":"¿Deseas reiniciar el juego?","msgRoolDice":"lanza el dado.","msgsWinner":"El juego ha terminado. El ganador es %1. ¿Deseas volver a jugar?","msgWinGame":"¡Genial! Ganas la partida.","msgsYouPlay":"tú juegas. Lanza el dado.","msgSaveDiceAuto":"Su puntuación se guardará automáticamente tras cada tirada.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgOnlyFirstGame":"Solo puede jugar una vez.","msgGamers":"Jugadores","msgReply":"Responder","msgErrorQuestion":"has fallado.","msgGetQueso":"consigues el queso de","msgRightAnswre":"Un punto más.","msgAudio":"Audio","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgNext":"Siguiente","msgTypeGame":"TriviExt","msgRestart":"Reiniciar","msgYouScore":"Su puntuación"},"trivialID":1777840378259,"version":3,"modeBoard":false,"evaluation":false,"evaluationID":"60bbbddf-b65e-42e3-8d77-2333bd26be0a","id":"idevice-1777840377519-c4g6z11g2"}</div><div class="trivial-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777841650779-6p4otypit</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777841650779-6p4otypit</odePageId>
+      <odeBlockId>block-1777841653373-xjfloa0dc</odeBlockId>
+      <blockName>Licencia y descarga</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841650779-6p4otypit</odePageId>
+          <odeBlockId>block-1777841653373-xjfloa0dc</odeBlockId>
+          <odeIdeviceId>idevice-1777841653372-i5si5yu4c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Creado bajo licencia Creative Commons BY-SA 4.0.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841653372-i5si5yu4c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Creado bajo licencia Creative Commons BY-SA 4.0.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777841650779-6p4otypit</odePageId>
+      <odeBlockId>block-1777841767497-vz4ofaava</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777841650779-6p4otypit</odePageId>
+          <odeBlockId>block-1777841767497-vz4ofaava</odeBlockId>
+          <odeIdeviceId>idevice-1777841767495-1kxgnbecv</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Lumen: El dibujo expandido.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">¡Hola a todas y todos! En esta Situación de Aprendizaje vamos a romper los límites del papel. Como estudiantes de 2º de Bachillerato de Artes, vuestro reto es explorar cómo el trazo analógico se transforma en luz y tiempo a través del videoarte. Aprenderemos a usar el dibujo no como un fin, sino como una herramienta de planificación (storyboard) y como un elemento plástico dentro de una pieza audiovisual.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Cristina Gómez Villacampa</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
